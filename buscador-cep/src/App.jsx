@@ -79,10 +79,10 @@ function App() {
           <Main>
             <h2>CEP:{cep.cep}</h2>
 
-            <p><b>Rua: </b>{cep.logradouro}</p>
+            <p><b>Endereço: </b>{cep.logradouro}</p>
             <p> <b>DDD do estado:</b> {cep.ddd} </p>
-            <p><b>Cidade: </b>{cep.bairro}</p>
-            <p><b>Estado: </b>{cep.localidade + ` ${cep.uf}`}</p>
+            <p><b>Bairro: </b>{cep.bairro}</p>
+            <p><b>Cidade: </b>{cep.localidade + ` ${cep.uf}`}</p>
           </Main>
 
         )
