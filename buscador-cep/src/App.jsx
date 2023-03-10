@@ -54,6 +54,7 @@ function App() {
       alert("Esse CEP não esta valido, tentar outro.")
       window.location.reload(true)
     }
+    
 
   }
 
