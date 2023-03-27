@@ -1,3 +1,3 @@
 # Buscador-de-Cep
 
-<p>oi</p>
+<video src="./buscador-cep/src/cepvideo" controls autoplay muted ></video>
