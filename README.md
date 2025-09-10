@@ -1,4 +1,4 @@
-# 🌟 Buscador de CEP - Interface Dourada
+# 🌟 Buscador de CEP
 
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/2d75f709-6295-4ddc-89cc-e8c2c6c8af5c" />
 
@@ -196,5 +196,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ⭐ **Se este projeto te ajudou, não esqueça de dar uma estrela!** ⭐
+
 
 
