@@ -186,12 +186,6 @@ npm run build
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👨‍💻 Autor
-
-**Desenvolvedor**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-perfil)
-
 ## 🙏 Agradecimentos
 
 - [ViaCEP](https://viacep.com.br/) pela API gratuita
@@ -202,4 +196,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 ⭐ **Se este projeto te ajudou, não esqueça de dar uma estrela!** ⭐
+
 
